@@ -1,0 +1,6 @@
+module Pods_boilerplateRN_boilerplateRNTests {
+  umbrella header "Pods-boilerplateRN-boilerplateRNTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
